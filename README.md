@@ -27,6 +27,7 @@ ________________________________________________________________________________
 4. Be aware:
    
    -letter e won't be recognized as "e" but as epsilon.
+   
    -$ can't be either a terminal or a non terminal symbol, program would just end.
 
 ## INPUT(GREEN)/OUTPUT(WHITE) EXAMPLE:
