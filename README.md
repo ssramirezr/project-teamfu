@@ -25,6 +25,7 @@ ________________________________________________________________________________
    - Enter the grammar (the first of each line will be taken as the non-terminal symbol, the others will be taken as the derivations).
 3. Press enter after completing all previous information.
 4. Be aware:
+   
    -letter e won't be recognized as "e" but as epsilon.
    -$ can't be either a terminal or a non terminal symbol, program would just end.
 
